@@ -2,6 +2,7 @@
     color: #fff;
     object-fit: contain;
     height: 448px;
+    margin-bottom: 30px;
 }
 
 .banner-content {
@@ -23,6 +24,7 @@
     font-size: 0.8rem;
     max-width: 360px;
     height: 80px;
+    text-shadow: 1px 1px #000;
 }
 
 .banner-button {
